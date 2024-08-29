@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ankit_aj/Desktop/MLOPS-case_studies/Dagshub_demo_mlflow/dagshub_mlflow/your
+  dagshub unique uri/450585804977983316/f0e40af262e94aa088a98960d604ad71/artifacts
+end_time: 1724922908799
+entry_point_name: ''
+experiment_id: '450585804977983316'
+lifecycle_stage: active
+run_id: f0e40af262e94aa088a98960d604ad71
+run_name: Logistic Regression
+run_uuid: f0e40af262e94aa088a98960d604ad71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724922906257
+status: 3
+tags: []
+user_id: your user name

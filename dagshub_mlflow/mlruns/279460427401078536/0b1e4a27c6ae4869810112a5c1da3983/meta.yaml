@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankit_aj/Desktop/MLOPS-case_studies/Dagshub_demo_mlflow/dagshub_mlflow/mlruns/279460427401078536/0b1e4a27c6ae4869810112a5c1da3983/artifacts
+end_time: 1724921330446
+entry_point_name: ''
+experiment_id: '279460427401078536'
+lifecycle_stage: active
+run_id: 0b1e4a27c6ae4869810112a5c1da3983
+run_name: iris_classifier_29-08-24
+run_uuid: 0b1e4a27c6ae4869810112a5c1da3983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724921326790
+status: 3
+tags: []
+user_id: ankit_aj

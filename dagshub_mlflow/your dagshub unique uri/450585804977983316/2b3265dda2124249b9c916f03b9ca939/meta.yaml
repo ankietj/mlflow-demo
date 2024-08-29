@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ankit_aj/Desktop/MLOPS-case_studies/Dagshub_demo_mlflow/dagshub_mlflow/your
+  dagshub unique uri/450585804977983316/2b3265dda2124249b9c916f03b9ca939/artifacts
+end_time: 1724922911271
+entry_point_name: ''
+experiment_id: '450585804977983316'
+lifecycle_stage: active
+run_id: 2b3265dda2124249b9c916f03b9ca939
+run_name: Random Forest
+run_uuid: 2b3265dda2124249b9c916f03b9ca939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724922908806
+status: 3
+tags: []
+user_id: your user name

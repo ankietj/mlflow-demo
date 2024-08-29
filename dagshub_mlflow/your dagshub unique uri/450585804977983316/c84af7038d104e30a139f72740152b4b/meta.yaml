@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ankit_aj/Desktop/MLOPS-case_studies/Dagshub_demo_mlflow/dagshub_mlflow/your
+  dagshub unique uri/450585804977983316/c84af7038d104e30a139f72740152b4b/artifacts
+end_time: 1724923047211
+entry_point_name: ''
+experiment_id: '450585804977983316'
+lifecycle_stage: active
+run_id: c84af7038d104e30a139f72740152b4b
+run_name: XGBClassifier
+run_uuid: c84af7038d104e30a139f72740152b4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724923044599
+status: 3
+tags: []
+user_id: your user name

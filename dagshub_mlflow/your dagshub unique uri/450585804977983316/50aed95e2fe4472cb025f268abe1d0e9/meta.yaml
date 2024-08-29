@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ankit_aj/Desktop/MLOPS-case_studies/Dagshub_demo_mlflow/dagshub_mlflow/your
+  dagshub unique uri/450585804977983316/50aed95e2fe4472cb025f268abe1d0e9/artifacts
+end_time: 1724923050121
+entry_point_name: ''
+experiment_id: '450585804977983316'
+lifecycle_stage: active
+run_id: 50aed95e2fe4472cb025f268abe1d0e9
+run_name: XGBClassifier With SMOTE
+run_uuid: 50aed95e2fe4472cb025f268abe1d0e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724923047217
+status: 3
+tags: []
+user_id: your user name
